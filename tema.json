@@ -1,12 +1,12 @@
 [
   {
+    "kode": "1234567890",
     "name": "Denatra",
-    "active": false,
     "url": "natairaya..desa.id"
   },
   {
+    "kode": "0987654321",
     "name": "Denava",
-    "active": false,
     "url": "nataibaru..desa.id"
   }
 ]
